@@ -1,0 +1,2 @@
+# Naturelite
+WordPress Nature Theme 
